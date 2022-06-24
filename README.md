@@ -1,4 +1,4 @@
-Personal CV Website
+Personal-CV-Website
 
 My first crappy looking project using pure HTML.
 
